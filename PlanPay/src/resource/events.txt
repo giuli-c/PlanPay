@@ -1,0 +1,7 @@
+2024-04-26[,]12:00[,]15:00[,]00:00[,]Viaggio Parigi[,]CONCLUSO
+2024-04-27[,]12:00[,]15:00[,]00:00[,]Viaggio Parigi[,]CONCLUSO
+2024-06-28[,]08:00[,]09:00[,]Preprazione presentazione meeting[,][,]IN_CORSO
+2024-06-29[,]08:00[,]09:00[,]Preprazione presentazione meeting[,][,]IN_CORSO
+2024-06-29[,]17:00[,]18:00[,]Meeting lavorativo[,]Metting di 3 giorni presso il palacongressi di Riccione.[,]DA_AVVIARE
+2024-06-30[,]17:00[,]18:00[,]Meeting lavorativo[,]Metting di 3 giorni presso il palacongressi di Riccione.[,]DA_AVVIARE
+2024-07-01[,]17:00[,]18:00[,]Meeting lavorativo[,]Metting di 3 giorni presso il palacongressi di Riccione.[,]DA_AVVIARE
